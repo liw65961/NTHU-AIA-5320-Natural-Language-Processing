@@ -1,0 +1,5 @@
+transformers==4.57.1
+datasets==2.21.0
+evaluate==0.4.6
+torch==2.8.0+cu129
+tqdm==4.67.1
